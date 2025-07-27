@@ -79,7 +79,7 @@ I'm a dedicated full-stack web developer from Nepal specializing in the **MERN s
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Strangerme03&theme=tokyo-night" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SudeepRajKarki&theme=tokyo-night" alt="Contribution Graph" />
 </div>
 
 ---
