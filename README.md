@@ -55,15 +55,15 @@ I'm a dedicated full-stack web developer from Nepal specializing in the **MERN s
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Strangerme03&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SudeepRajKarki3&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Strangerme03&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SudeepRajKarki3&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Strangerme03&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudeepRajKarki3&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
 ---
@@ -71,7 +71,7 @@ I'm a dedicated full-stack web developer from Nepal specializing in the **MERN s
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Strangerme03&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SudeepRajKarki3&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -105,7 +105,7 @@ I'm a dedicated full-stack web developer from Nepal specializing in the **MERN s
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Strangerme03&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=SudeepRajKarki3&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
 <div align="center">
