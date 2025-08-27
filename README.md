@@ -59,7 +59,7 @@ I'm a dedicated full-stack web developer from Nepal specializing in the **MERN s
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=SudeepRajKarki&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=SudeepRajKarki&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 <div align="center">
@@ -71,8 +71,9 @@ I'm a dedicated full-stack web developer from Nepal specializing in the **MERN s
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SudeepRajKarki&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SudeepRajKarki&theme=radical&no-bg=true&margin-w=15)
 </div>
+
 
 ---
 
