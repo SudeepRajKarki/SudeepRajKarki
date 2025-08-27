@@ -59,7 +59,7 @@ I'm a dedicated full-stack web developer from Nepal specializing in the **MERN s
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SudeepRajKarki&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=SudeepRajKarki&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 <div align="center">
